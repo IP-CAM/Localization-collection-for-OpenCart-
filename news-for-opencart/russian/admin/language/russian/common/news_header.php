@@ -16,3 +16,4 @@ $_['text_news_category'] = 'Категории';
 $_['text_news_article']  = 'Записи';
 $_['text_news_comment']  = 'Комментарии';
 $_['text_news_setting']  = 'Настройки';
+$_['text_news_feed']     = 'Каналы продвижения';
